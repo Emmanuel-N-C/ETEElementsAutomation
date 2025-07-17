@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>webtables and buttons test</description>
+   <name>SecondTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b68c871-ad36-4204-8e6c-b85e9fca1984</testCaseGuid>
+</TestCaseEntity>
