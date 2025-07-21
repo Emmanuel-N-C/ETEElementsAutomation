@@ -4,18 +4,22 @@ This is an early-stage web automation testing project targeting [demoqa.com](htt
 
 ## ✅ Current Scope
 
-The project currently focuses on testing the **"Elements"** and **"Forms"** sections of demoqa.com, which includes:
+The project currently focuses on testing the following sections of demoqa.com:
 
 ### ✅ Elements Section:
 - Text Box
 - Check Box
 - Radio Button
 - Web Tables
+- Alerts, Frame & Windows
 
 ### ✅ Forms Section:
 - Practice Form
 
-📍 More feature tests (like Alerts, Widgets, Interactions, and Book Store) will be added in future updates.
+### In Progress / Upcoming:
+- Widgets *(coming soon)*
+- Interactions *(coming soon)*
+- Book Store *(coming soon)*
 
 ## 🔧 Tools & Technologies
 
@@ -23,4 +27,5 @@ The project currently focuses on testing the **"Elements"** and **"Forms"** sect
 - Visual Studio Code (for GitHub upload and version control)
 - Selenium WebDriver (used behind the scenes by Katalon)
 - TestNG (via Katalon Studio test suite structure)
+
 
