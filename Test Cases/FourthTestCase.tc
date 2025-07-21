@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing the browerwindows,Alerts,Frames,Nested Frames, Modial Dialogs</description>
+   <name>FourthTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78003d89-c629-40d0-adaa-c6607c51e7a5</testCaseGuid>
+</TestCaseEntity>
