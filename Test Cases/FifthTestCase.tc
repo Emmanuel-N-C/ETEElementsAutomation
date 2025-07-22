@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Widgets elements</description>
+   <name>FifthTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fc418c8-5fb0-4884-807d-5045d8ab4054</testCaseGuid>
+</TestCaseEntity>
