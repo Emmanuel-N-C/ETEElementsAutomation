@@ -12,12 +12,9 @@ The project currently focuses on testing the following sections of demoqa.com:
 - Radio Button
 - Web Tables
 - Alerts, Frame & Windows
-
-### ✅ Forms Section:
-- Practice Form
+- Widgets
 
 ### In Progress / Upcoming:
-- Widgets *(coming soon)*
 - Interactions *(coming soon)*
 - Book Store *(coming soon)*
 
