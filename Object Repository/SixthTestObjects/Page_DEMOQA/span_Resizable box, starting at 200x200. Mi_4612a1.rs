@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Resizable box, starting at 200x200. Mi_4612a1</name>
+   <tag></tag>
+   <elementGuidId>4f972a88-0754-4b91-ae71-66ee23f90e8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resizableBoxWithRestriction']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.react-resizable-handle.react-resizable-handle-se</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#resizableBoxWithRestriction span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c32d8ed7-c909-436f-b5c2-4874b078c71f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-resizable-handle react-resizable-handle-se</value>
+      <webElementGuid>65037990-a574-4cb9-be6a-c2f5a294a5cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resizableBoxWithRestriction&quot;)/span[@class=&quot;react-resizable-handle react-resizable-handle-se&quot;]</value>
+      <webElementGuid>c380f575-e973-4fdd-9a9d-845ab04eeff8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resizableBoxWithRestriction']/span</value>
+      <webElementGuid>a104dd09-4093-451c-ac47-3637e5b48f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>d422a476-79a1-45a8-bb09-d0f0013f1dec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

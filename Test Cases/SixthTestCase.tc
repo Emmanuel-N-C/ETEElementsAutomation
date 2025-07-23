@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Interactions elements</description>
+   <name>SixthTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5cd99629-a692-42d5-90aa-fd5261e3fcb3</testCaseGuid>
+</TestCaseEntity>

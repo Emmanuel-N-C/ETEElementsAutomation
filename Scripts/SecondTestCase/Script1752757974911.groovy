@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-
 WebUI.click(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/path'))
 
 WebUI.click(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/span_Web Tables'))
@@ -40,10 +38,4 @@ WebUI.setText(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/in
 WebUI.click(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/button_Submit'))
 
 WebUI.click(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/span_Buttons'))
-
-WebUI.doubleClick(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/button_Double Click Me'))
-
-WebUI.click(findTestObject('Object Repository/SecondTestObjects/Page_DEMOQA/button_Click Me'))
-
-
 
