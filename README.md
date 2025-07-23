@@ -13,9 +13,9 @@ The project currently focuses on testing the following sections of demoqa.com:
 - Web Tables
 - Alerts, Frame & Windows
 - Widgets
+- Interactions
 
 ### In Progress / Upcoming:
-- Interactions *(coming soon)*
 - Book Store *(coming soon)*
 
 ## 🔧 Tools & Technologies
