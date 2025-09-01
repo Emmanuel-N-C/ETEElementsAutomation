@@ -1,4 +1,4 @@
-# ToolsWebAutomation
+# ETEElementsAutomation
 
 This is an early-stage web automation testing project targeting [demoqa.com](https://demoqa.com), built using **Katalon Studio** and managed via **Visual Studio Code** for GitHub integration.
 
